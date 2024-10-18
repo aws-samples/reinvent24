@@ -2,6 +2,12 @@
 
 This repository contains slides, demos, and other assets for the Kubernetes (KUB) track from AWS re:Invent 2024. Each session is organized by session number and title. Click on the session number to access the materials for that specific session.
 
+## General Resources
+
+- [EKS Workshop](https://www.eksworkshop.com/) - Practical exercises to learn about Amazon Elastic Kubernetes Service.
+- [EKS Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/introduction.html) - Build your Amazon EKS knowledge.
+- [Amazon EKS - Knowledge Badge Readiness Path](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1931/amazon-eks-knowledge-badge-readiness-path) - Earn a badge at the end of this Amazon EKS learning path.
+
 ## Sessions
 
 - [KUB201 - The Future of Kubernetes on AWS](sessions/KUB201)
