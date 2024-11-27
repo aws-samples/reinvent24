@@ -1,7 +1,7 @@
 # KUB304 | Cloud-Native Java on AWS
 Learn how to build cloud-native Java applications based on best practices, and discover ways you can optimize for performance. In this builders’ session, gain hands-on experience building cloud-native Java applications with Amazon Corretto and Spring Boot. In addition, explore how to use Amazon Q Developer to simplify the creation of new Java functionality and increase development speed, and learn how to deploy Java applications on Amazon EKS. You must bring your laptop to participate
 #
-Related re:invent sessions:
+**Related re:invent sessions:**
 
 * [KUB201: The future of Kubernetes on AWS](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub201&trk=direct)
 * [SVS211: Celebrating 10 years of pioneering serverless and containers](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=SVS211&trk=direct)
@@ -17,8 +17,11 @@ Related re:invent sessions:
 * [KUB306: Simplifying application deployment on Amazon EKS](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub306)
 #
 
-[GitHub-repository containing demo application](https://github.com/aws-samples/java-on-aws)
+**GitHub-repository containing demo application**
+
+[https://github.com/aws-samples/java-on-aws](https://github.com/aws-samples/java-on-aws)
 #
+**Additional links to blog posts and documentation:**
 * Java on AWS Immersion Day:
    This comprehensive workshop covers various aspects of running Java applications on AWS.
    * Link: https://catalog.workshops.aws/java-on-aws/en-US
