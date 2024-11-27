@@ -1,9 +1,24 @@
 # KUB304 | Cloud-Native Java on AWS
 Learn how to build cloud-native Java applications based on best practices, and discover ways you can optimize for performance. In this builders’ session, gain hands-on experience building cloud-native Java applications with Amazon Corretto and Spring Boot. In addition, explore how to use Amazon Q Developer to simplify the creation of new Java functionality and increase development speed, and learn how to deploy Java applications on Amazon EKS. You must bring your laptop to participate
 #
-[Link to session catalog](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=kub304)
+Related re:invent sessions:
+
+* [KUB201: The future of Kubernetes on AWS](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub201&trk=direct)
+* [SVS211: Celebrating 10 years of pioneering serverless and containers](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=SVS211&trk=direct)
+* [SVS209: Containers or serverless functions: A path for cloud-native success](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=SVS209)
+* [SVS403: From serverful to serverless Java](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=SVS403)
+* [SVS405: Refactoring Java applications to serverless](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=SVS405&trk=direct)
+* [KUB402: Amazon EKS: Infrastructure as code, GitOps, or CI/CD](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub402&trk=direct)
+* [KUB406: Networking Strategies for Kubernetes](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub406&trk=direct)
+* [KUB312: Automated cluster infrastructure with Amazon EKS and Karpenter](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub312)
+* [SVS340: Deployment best practices for reliable rollouts using Amazon ECS](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=svs340&trk=direct)
+* [OPN307: Kubernetes connectivity: From service meshes to the future](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=opn307&trk=direct)
+* [KUB406: Networking strategies for Kubernetes](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub406&trk=direct)
+* [KUB306: Simplifying application deployment on Amazon EKS](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub306)
 #
-[Link to GitHub-repository](https://github.com/aws-samples/java-on-aws)
+
+#
+[GitHub-repository containing demo application](https://github.com/aws-samples/java-on-aws)
 #
 * Java on AWS Immersion Day:
    This comprehensive workshop covers various aspects of running Java applications on AWS.
