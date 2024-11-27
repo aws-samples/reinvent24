@@ -17,7 +17,6 @@ Related re:invent sessions:
 * [KUB306: Simplifying application deployment on Amazon EKS](https://registration.awsevents.com/flow/awsevents/reinvent24/public/page/catalog?search=kub306)
 #
 
-#
 [GitHub-repository containing demo application](https://github.com/aws-samples/java-on-aws)
 #
 * Java on AWS Immersion Day:
