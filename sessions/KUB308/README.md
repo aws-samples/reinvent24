@@ -16,6 +16,6 @@ Rev up your enterprise DevOps strategy in this internal developer platform (IDP)
 ## Resources:
 
 - [Re:Invent KUB308 Sessions](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=KUB308)
-- [Workshop Link](https://catalog.us-east-1.prod.workshops.aws/workshops/0253bdfe-7794-4f3c-b66f-08c114b9a02f/en-US)
+- [Workshop Link](https://catalog.workshops.aws/cnoe-oss/en-US)
 - [Workshop source code](https://github.com/aws-samples/reinvent-kub308-cnoe)
 - [CNOE project](https://cnoe.io/)
