@@ -16,6 +16,7 @@ This repository contains slides, demos, and other assets for the Kubernetes (KUB
 - [KUB312 - Automated Cluster Infrastructure with Amazon EKS and Karpenter](sessions/KUB312)
 - [KUB314 - High-Performance Generative AI on Amazon EKS](sessions/KUB314)
 - [KUB315 - Securing Kubernetes Workloads in Amazon EKS](sessions/KUB315)
+- [KUB316 - Deploy optimized inference pipelines on Amazon EKS](sessions/KUB316)
 - [KUB404 - Building Production-Grade Resilient Architectures with Amazon EKS](sessions/KUB404)
 - [KUB405 - Amazon EKS as Data Platform for Analytics](sessions/KUB405)
 - [KUB406 - Networking Strategies for Kubernetes](sessions/KUB406)
