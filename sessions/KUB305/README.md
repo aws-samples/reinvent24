@@ -29,3 +29,6 @@ Verify schedule and location in the AWS Re:invent App
 [SVS411 | Securing Amazon ECS workloads with AWS Signer and Amazon GuardDuty](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=svs411)
 
 [SVS412 | Achieving a secure microservices architecture on Amazon ECS](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=svs412)
+
+## Request an EKS Workshop
+[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

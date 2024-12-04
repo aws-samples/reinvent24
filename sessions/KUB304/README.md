@@ -39,3 +39,6 @@ Learn how to build cloud-native Java applications based on best practices, and d
    "Optimize your Java application for containers and serverless"
    This session provides valuable insights into optimizing Java applications for container and serverless environments.
    * Link: https://www.youtube.com/watch?v=ClsTkaqfjAg
+
+## Request an EKS Workshop
+[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

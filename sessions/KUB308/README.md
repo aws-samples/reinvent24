@@ -19,3 +19,5 @@ Rev up your enterprise DevOps strategy in this internal developer platform (IDP)
 - [Workshop Link](https://catalog.workshops.aws/cnoe-oss/en-US)
 - [Workshop source code](https://github.com/aws-samples/reinvent-kub308-cnoe)
 - [CNOE project](https://cnoe.io/)
+## Request an EKS Workshop
+[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

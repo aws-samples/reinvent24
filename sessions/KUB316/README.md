@@ -3,3 +3,6 @@ Running generative AI apps on Amazon EKS? Learn how to reduce GPU costs, increas
 
 ## Related Resources
 [scalable-hw-agnostic-inference - code smaple](https://github.com/aws-samples/scalable-hw-agnostic-inference)
+
+## Request an EKS Workshop
+[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

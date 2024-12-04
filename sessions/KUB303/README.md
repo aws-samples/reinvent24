@@ -15,3 +15,5 @@ Elevate your Amazon EKS skills with this hands-on workshop designed for experien
 - [Re:Invent KUB303 Sessions](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=KUB303)
 - [Workshop Link](https://catalog.workshops.aws/eks-fleet-management/en-US)
 - [Workshop source code](https://github.com/aws-samples/fleet-management-on-amazon-eks-workshop/tree/riv24/)
+## Request an EKS Workshop
+[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)
