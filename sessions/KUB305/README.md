@@ -4,13 +4,13 @@ In this hands-on session, explore how to automate the identification, analysis, 
 
 [Securing and Observing EKS GitHub repo](https://github.com/aws-samples/securing-and-observing-eks) - Holds the content to deploy the environment to run this workshop in your own account.
 
-[Overview of Amazon EKS and Kubernetes sessions at AWS re:Invent 2024](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024)
-
 ## Related Resources
 
 [EKS Security Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/security.html)
 [One Observability Workshop](https://catalog.workshops.aws/observability/en-US)
 [EKS Workshop - Security](https://www.eksworkshop.com/docs/security/)
+
+[Overview of Amazon EKS and Kubernetes sessions at AWS re:Invent 2024](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024)
 
 ## Related Sessions
 
