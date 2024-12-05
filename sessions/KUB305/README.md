@@ -7,6 +7,8 @@ In this hands-on session, explore how to automate the identification, analysis, 
 ## Related Resources
 
 [EKS Security Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/security.html)
+[One Observability Workshop](https://catalog.workshops.aws/observability/en-US)
+[EKS Workshop - Security](https://www.eksworkshop.com/docs/security/)
 
 ## Related Sessions
 

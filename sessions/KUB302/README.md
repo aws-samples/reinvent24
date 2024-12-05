@@ -7,6 +7,8 @@ As part of designing any modern system on AWS, it is necessary to think about th
 ## Related Resources
 
 [EKS Security Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/security.html)
+[One Observability Workshop](https://catalog.workshops.aws/observability/en-US)
+[EKS Workshop - Security](https://www.eksworkshop.com/docs/security/)
 
 [Amazon EKS and Kubernetes sessions at AWS re:Invent 2024](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024/)
 
