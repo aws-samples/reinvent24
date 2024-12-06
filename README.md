@@ -7,6 +7,7 @@ This repository contains slides, demos, and other assets for the Kubernetes (KUB
 - [EKS Workshop](https://www.eksworkshop.com/) - Practical exercises to learn about Amazon Elastic Kubernetes Service.
 - [EKS Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/introduction.html) - Build your Amazon EKS knowledge.
 - [Amazon EKS - Knowledge Badge Readiness Path](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1931/amazon-eks-knowledge-badge-readiness-path) - Earn a badge at the end of this Amazon EKS learning path.
+- [AWS Events Content](https://aws.amazon.com/events/events-content/) - Official content from AWS Events sessions, including slide decks.
 
 ## Request an EKS Workshop
 [AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

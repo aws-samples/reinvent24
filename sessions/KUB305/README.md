@@ -2,11 +2,15 @@
 
 In this hands-on session, explore how to automate the identification, analysis, and mitigation of risks in Amazon Elastic Kubernetes Service (Amazon EKS) clusters. Learn how to implement robust security controls—including role-based access control (RBAC), EKS Pod Identity, and service accounts—to apply least-privilege access and secure workload isolation. Also discover how to use AWS CloudTrail and Amazon CloudWatch to gain deep visibility into EKS cluster activities, enabling real-time monitoring and automated risk detection. Learn the skills to automate risk management processes, helping your Kubernetes workloads remain resilient against evolving threats. You must bring your laptop to participate.
 
-[Overview of Amazon EKS and Kubernetes sessions at AWS re:Invent 2024](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024)
+[Securing and Observing EKS GitHub repo](https://github.com/aws-samples/securing-and-observing-eks) - Holds the content to deploy the environment to run this workshop in your own account.
 
 ## Related Resources
 
 [EKS Security Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/security.html)
+[One Observability Workshop](https://catalog.workshops.aws/observability/en-US)
+[EKS Workshop - Security](https://www.eksworkshop.com/docs/security/)
+
+[Overview of Amazon EKS and Kubernetes sessions at AWS re:Invent 2024](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024)
 
 ## Related Sessions
 

@@ -2,11 +2,10 @@
 
 As part of designing any modern system on AWS, it is necessary to think about the security implications and practices that can affect your security posture. This chalk talk walks you through five key areas to apply best practices for improving the overall security of containerized environments on Amazon EKS using a sample architecture. Learn how to leverage the security footprint on access control, software supply chain, cluster infrastructure, runtime, and data protection.
 
-[Overview of Amazon EKS and Kubernetes sessions at AWS re:Invent 2024](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024)
-
 ## Related Resources
 
 [EKS Security Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/security.html)
+[EKS Workshop - Security](https://www.eksworkshop.com/docs/security/)
 
 [Amazon EKS and Kubernetes sessions at AWS re:Invent 2024](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024/)
 
