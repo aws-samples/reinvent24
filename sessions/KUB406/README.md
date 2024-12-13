@@ -6,5 +6,8 @@ Sai Vennam, Principal Solutions Architect
 
 Federica Ciuffo, Sr Containers Specialist Solutions Architect
 
+## Related Links
+[Session Recording on YouTube](https://www.youtube.com/watch?v=8fes5sP0rs0&ab_channel=AWSEvents)
+
 ## Request an EKS Workshop
 [AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)
