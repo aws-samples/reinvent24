@@ -3,6 +3,7 @@ Containerized applications deployed on Amazon EKS present unique observability c
 
 ## Session Resources 
 [YouTube recording](https://youtu.be/Icz8MBHCPuQ?si=4ivKYmcxO0ODP0fD) 
+
 [Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB323_Observability-strategies-for-Amazon-EKS-workloads.pdf)
 
 ## Request an EKS Workshop
