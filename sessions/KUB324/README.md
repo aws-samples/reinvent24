@@ -7,6 +7,7 @@ Attend this session to learn proven methods for unlocking scalability, flexibili
 
 [Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB324_Empowering-stateful-workloads-on-Amazon-EKS-with-AWS-storage-services.pdf)
 
+## Additional Resources
 [SVS331: Supercharge AI/ML Workloads on Amazon ECS](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=SVS331)
 
 [KUB403: High-performance LLM inference scaling on Amazon EKS](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=KUB403)
