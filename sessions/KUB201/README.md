@@ -3,6 +3,7 @@ Kubernetes has become a standard way for organizations looking to modernize thei
 
 ## Related Links
 [YouTube recording of session](https://www.youtube.com/watch?si=lOZck927ri5VVoVI&v=_wwu0VKy3w4&feature=youtu.be)
+
 [Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB201_The-future-of-Kubernetes-on-AWS.pdf)
 
 ## Request an EKS Workshop
