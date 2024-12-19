@@ -6,6 +6,12 @@ Sai Vennam, Principal Solutions Architect
 
 Federica Ciuffo, Sr Containers Specialist Solutions Architect
 
+## Session Resources
+
+[YouTube](https://youtu.be/8fes5sP0rs0?si=HMrvINjoPVP0ca66) 
+
+[Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB406_Networking-strategies-for-Kubernetes.pdf)
+
 ## Related Links
 [Session Recording on YouTube](https://www.youtube.com/watch?v=8fes5sP0rs0&ab_channel=AWSEvents)
 
