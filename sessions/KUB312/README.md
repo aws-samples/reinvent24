@@ -3,6 +3,7 @@ Kubernetes makes building and running complex applications simpler, but using Ku
 
 ## Session Resources 
 [YouTube Recording](https://youtu.be/JwzP8I8tdaY?si=JW_H12qmPtrFJsdt)
+
 [Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB312_Simplify-Kubernetes-workloads-with-Karpenter-and-Amazon-EKS-Auto-Mode.pdf)
 
 
