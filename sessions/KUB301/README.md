@@ -6,6 +6,9 @@ A wide range of companies, from the most innovative startups to the world’s le
 
 Cloud Native Operational Excellence (CNOE) : [Getting Started with CNOE on Amazon EKS](https://cnoe.io/docs/reference-implementation/installations/app-idp)
 
+[YouTube recording of session](https://youtu.be/WkPrmHKZsq4?si=OPyU4YL3gpAVl7K6)
+
+[Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB301_How-to-build-scalable-platforms-with-Amazon-EKS.pdf)
 
 **Related Sessions:**
 
